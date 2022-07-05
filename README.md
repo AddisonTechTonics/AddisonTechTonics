@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @AddisonTechTonics
 
-- 👀 I’m interested in: 
-                        Tech related stuff -> Web Development, Game Development, General Software Programming.
-                        
-                        Non-tech related stuff -> Science, Economics, Philosophy, World Peace, Ending Poverty, Creating a world where we can automate a job 
-                        without the risk of former employees having to starve
+- 👀 I’m interested in: Tech related stuff -> Web Development, Game Development, General Programming. Non-tech related stuff -> Science, Economics, Philosophy, World Peace, Ending Poverty, Creating a world where we can automate a job without the risk of former employees having to starve.
                         
 - 🌱 I’m currently learning: Secure access & storage of MySQL data with PHP, C++, Godot Engine with GDScript, advanced use of linux, etc.
 

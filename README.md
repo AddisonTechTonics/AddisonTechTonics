@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @AddisonTechTonics
-- 👀 I’m interested in: Web Development, Game Development, General Software Programming.
-- 🌱 I’m currently learning: Godot Engine/GDScript, Inkscape, PHP Development and Development/Management of eCommerce
-- 💞️ I’m looking to collaborate on: Anything worth contributing to really. I want to see my code used in real-life situations
-- 📫 How to reach me: Email @ addisontechtonics@gmail.com
 
-<!---
-AddisonTechTonics/AddisonTechTonics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in: 
+                        Tech related stuff -> Web Development, Game Development, General Software Programming.
+                        
+                        Non-tech related stuff -> Science, Economics, Philosophy, World Peace, Ending Poverty, Creating a world where we can automate a job 
+                        without the risk of former employees having to starve
+                        
+- 🌱 I’m currently learning: Secure access & storage of MySQL data with PHP, C++, Godot Engine with GDScript, advanced use of linux, etc.
+
+- 💞️ I’m looking to collaborate on: Anything worth contributing to really. I want to see my code used in-real-life. Ideally, I want to contribute towards something I believe in. Something that can make society a better place. I'll settle for something useful or marketable, but my real dreams are centered around societal change.
+
+- 📫 How to reach me: Email @ addisontechtonics@gmail.com

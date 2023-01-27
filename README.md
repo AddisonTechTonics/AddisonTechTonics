@@ -3,7 +3,7 @@
 - 👀 I’m interested in: Tech related stuff 
 ->  GNU/Linux development and ecosystem, Database Management, Web Development, Game Development, Network Administration, General Programming. 
 - 👀 Non-tech related interests
-->  Science, Economics, Philosophy, World Peace, Ending Poverty, etc.. To put it simply, i'm working on creating a world where we can automate mass amounts of jobs without sentencing economic doom on mass amounts of people. I don't care about politics, I care about humanity.
+->  Science, Economics, Philosophy, World Peace, Ending Poverty, etc.. To put it simply, i'd learn everything if i could.
                         
 - 🌱 I was learning: Secure access & storage of MySQL data with PHP, C++, Godot Engine with GDScript, advanced use of linux, etc. (06/022)
 - 🌱 I'm now learning: The Laravel framework, Unix architectural design, API implimentation, and how to build custom cfx.re servers (09/2022)
